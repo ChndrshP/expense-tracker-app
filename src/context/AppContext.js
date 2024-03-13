@@ -1,5 +1,5 @@
 import React, { createContext, useReducer } from 'react';
-
+//farzi commit
 const AppReducer = (state, action) => {
 	switch (action.type) {
 		case 'ADD_EXPENSE':
